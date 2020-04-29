@@ -13,9 +13,9 @@
 
 [![](https://img.shields.io/badge/made%20by-ThiagoGualberto-%237159C1)](https://www.linkedin.com/in/thiagogualberto84)
 [![](https://img.shields.io/badge/node.js@lts-12.14.1-informational?logo=Node.JS)](https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.14.1)
-![](https://img.shields.io/github/repo-size/thiagogualberto/conceitos-nodejs.svg)
-[![](https://img.shields.io/github/last-commit/thiagogualberto/conceitos-nodejs.svg?color=red)](https://github.com/thiagogualberto/conceitos-nodejs/commits/master)
-[![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/thiagogualberto/conceitos-nodejs/blob/master/LICENSE.md)
+![](https://img.shields.io/github/repo-size/thiagogualberto/nodejs-concepts.svg)
+[![](https://img.shields.io/github/last-commit/thiagogualberto/nodejs-concepts.svg?color=red)](https://github.com/thiagogualberto/nodejs-concepts/commits/master)
+[![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/thiagogualberto/nodejs-concepts/blob/master/LICENSE.md)
 </br></br>
 
 <p id="insomniaButton" align="center">
@@ -48,10 +48,10 @@ From your command line:
 
 ```bash
 # Clone this repo to your local machine using
-$ git clone https://github.com/thiagogualberto/conceitos-nodejs.git
+$ git clone https://github.com/thiagogualberto/nodejs-concepts.git
 
-# From the project root, enter the backend (conceitos-nodejs) folder
-$ cd conceitos-nodejs
+# From the project root, enter the backend (nodejs-concepts) folder
+$ cd nodejs-concepts
 
 # Install the dependencies
 $ yarn
@@ -95,7 +95,7 @@ I'll be happy if you could provide me any feedback about the project, code, stru
 $ gh repo fork thiagogualberto/NOME_DO_REPO
 
 #Clone this repo to your local machine using
-$ git clone https://github.com/thiagogualberto/conceitos-nodejs.git
+$ git clone https://github.com/thiagogualberto/nodejs-concepts.git
 
 # Create your feature branch using
 $ git checkout -b my-feature
@@ -127,7 +127,7 @@ Thank you!
 
 # :memo: Licence
 
-[![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/thiagogualberto/conceitos-nodejs/blob/master/LICENSE.md)
+[![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/thiagogualberto/nodejs-concepts/blob/master/LICENSE.md)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
 </br></br>
