@@ -42,7 +42,7 @@ This project is a challenge of Rocketseat GoStack Bootcamp. It's a REST API buil
 
 ## :gear: Back-end
 
-To clone and run this api, you'll need Git, Node.js v12.14 or higher + Yarn v1.21 or higher + Docker installed on your computer. </br>
+To clone and run this api, you'll need Git, Node.js v12.14 or higher + Yarn v1.21 or higher installed on your computer. </br>
 
 From your command line:
 
@@ -65,7 +65,7 @@ $ yarn test
 
 
 You can test this API in two ways:</br>
-* Import the `Insomnia_FastFeet.json` file into Insomnia or,
+* Import the `Insomnia_Nodejs-concepts.json` file into Insomnia or,
 * Click the button [Run in Insomnia](#insomniaButton)
 </br></br>
 
